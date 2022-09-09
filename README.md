@@ -3,6 +3,7 @@
 - 🌱 I’m currently prusing B.tech cse from aktu university
 - 💞️ I’m looking to collaborate on ...
 - 📫 my mail id is=pranjalchaubey001@gmail.com
+- 💞️ I am React Enthusiastic.
 
 <!---
 pranjal123454/pranjal123454 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
