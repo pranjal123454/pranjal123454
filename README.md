@@ -1,4 +1,4 @@
-- 👋 Hi, I’m pranjal chaubey and nitin sharma
+- 👋 Hi, I’m pranjal chaubey 
 - 👀 I’m interested in problem solving programming and web devlopment.
 - 🌱 I’m currently prusing B.tech cse from aktu university
 - 💞️ I’m looking to collaborate on ...
