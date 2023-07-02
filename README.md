@@ -1,6 +1,6 @@
-- 👋 Hi, I’m pranjal chaubey 
+- 👋 Hi, I’m pranjal chaubey ,Fullstack developer
 - 👀 I’m interested in problem solving programming and web devlopment.
-- 🌱 I’m currently prusing B.tech cse from aktu university
+- 🌱 I’m passout from  B.tech cse 
 - 💞️ I’m looking to collaborate on ...
 - 📫 my mail id is=pranjalchaubey001@gmail.com
 - 💞️ I am React Enthusiastic.
